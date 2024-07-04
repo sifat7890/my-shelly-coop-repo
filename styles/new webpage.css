@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: overline;
+    font-size: 60px;
+    text-align: center;
+
+} 
+/* section design */
+#heading-parent{
+background-color:rgb(10, 66, 73);
+height: 600px;
+padding: 100px;
+width: 800px;
+margin: 30px auto;
+}
