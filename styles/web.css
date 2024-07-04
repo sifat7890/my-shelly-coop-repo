@@ -1,18 +1,13 @@
 div{
-    background-color: antiquewhite;
+    background-color: rgb(99, 182, 207);
+    margin-bottom: 10px;
+    padding: 10px;
 }
-.bardem{
-    font-weight: bold;
-    border: 5px solid brown;
-    border-radius: 5px;
-    border-bottom: none;
-    margin-top: 5px;
+img{
+    width: 200px;
+    height: 300px;
 }
-.ball{
-background-color: cadetblue;
-border: 5px solid brown;
-border-radius: 5px;
-border-bottom: none;
-margin-top: 5px;
-
+ball{
+    margin-bottom: 10px;
+    padding: 10px
 }
