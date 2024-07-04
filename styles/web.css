@@ -1,0 +1,18 @@
+div{
+    background-color: antiquewhite;
+}
+.bardem{
+    font-weight: bold;
+    border: 5px solid brown;
+    border-radius: 5px;
+    border-bottom: none;
+    margin-top: 5px;
+}
+.ball{
+background-color: cadetblue;
+border: 5px solid brown;
+border-radius: 5px;
+border-bottom: none;
+margin-top: 5px;
+
+}
